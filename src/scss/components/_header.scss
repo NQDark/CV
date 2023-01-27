@@ -3,6 +3,31 @@
 }
 
 .contacts {
+
     margin: 20px;
     list-style-type: none; 
+}
+
+.contacts-item {
+    text-decoration: none;
+    padding-bottom: 10px;
+}
+
+.adress-link {
+    text-decoration: none;
+    color: black;
+}
+
+.contacts-link {    
+    text-decoration: none;
+    color: black;
+}
+
+.contacts-link:hover {
+    color: blue;
+}
+
+.telegram-link {
+    text-decoration: none;
+    color: black;
 }
