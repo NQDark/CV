@@ -13,7 +13,6 @@ header {
 }
 
 main {
-    // width: 850px;
     padding-left: 50px;
 }
 
@@ -54,10 +53,8 @@ address {
 }
 
 .container {
-    display: flex;    
-}
-
-.container-center {
     display: flex;
+    width: 1200px;    
     margin: 0 auto;
 }
+
